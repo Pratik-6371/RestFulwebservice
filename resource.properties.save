@@ -1,0 +1,4 @@
+git add resource.properties
+git commit -m  "update resource file"
+execute
+
